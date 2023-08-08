@@ -1,0 +1,48 @@
+
+*{
+    margin: 0;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(97, 97, 184);
+    height: 100px;
+}
+table{
+   
+ margin: 70px 150px;
+}
+.info{
+    width: 190px;
+}
+
+/* .info{
+    margin-right: 300px;
+    width: fit-content;
+    border: 1px solid seagreen;
+} */
+nav ul{
+display: flex;
+justify-content: space-between;
+list-style-type: none;
+}
+nav a{
+    text-decoration: none;
+    margin: 7px;
+    color: beige;
+}
+/* nav{
+    border: 1px solid aquamarine;
+
+} */
+
+.black{
+    background-color: black;
+}
+.white{
+    background-color: white;
+}
+.chess{
+    border: 1px solid black;
+}
